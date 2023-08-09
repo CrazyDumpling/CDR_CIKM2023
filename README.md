@@ -8,7 +8,7 @@ Title: CDR: Conservative Doubly Robust Learning for Debiased Recommendation
 
 Please refer to the python codes in the "CDR" folder for Conservative Doubly Robust experiments.
 
-Please refer to the python codes in the "baseline" folder and baseline experiments.
+Please refer to the python codes in the "baseline" folder for baseline experiments.
 
 ## Datasets
 Coat and Yahoo datasets are already included in this project.
