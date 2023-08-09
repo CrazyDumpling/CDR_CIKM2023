@@ -19,11 +19,13 @@ KuaiRand dataset can be download at (https://kuairand.com/). You can preprocess 
 
 Our experimental environment is shown below:
 
-sklearn version: 1.0.2
+python version: 3.7.12
 
-pytorch version: 1.9.0 + cu111
+pytorch version: 1.9.0
 
-numpy version: 1.21.2
+cuda version: 10.2
+
+numpy version: 1.21.6
 
 ## Reference
 
