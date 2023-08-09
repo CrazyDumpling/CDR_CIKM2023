@@ -4,10 +4,18 @@ Conference Paper (https://uobevents.eventsair.com/cikm2023//)
 
 Title: CDR: Conservative Doubly Robust Learning for Debiased Recommendation
 
-## data
+## Codes
+
+Please refer to the python codes in the "CDR" folder for Conservative Doubly Robust experiments.
+
+Please refer to the python codes in the "baseline" folder and baseline experiments.
+
+## Datasets
 Coat and Yahoo datasets are already included in this project.
 
 KuaiRand dataset can be download at (https://kuairand.com/). You can preprocess the data using python script in data/kuairand.
+
+## Expriments Setup
 
 Our experimental environment is shown below:
 
@@ -17,7 +25,9 @@ pytorch version: 1.9.0 + cu111
 
 numpy version: 1.21.2
 
-We follow the previous studies, which is shown below:
+## Reference
+
+We follow the previous study, which is shown below:
 
 ```
 @inproceedings{li2023stabledr,
